@@ -1,11 +1,17 @@
-.head {
-  
+.test-box {
+  border: solid black;
+  border-width: 10px;
+  border-color: black;
+  color: blue;
+  width: 50%;
+  background-color: aquamarine;
+  text-align: center;
 }
 
 .description {
 
 }
-git
+
 .images { 
   width: 300px;
   float: left;
@@ -17,3 +23,4 @@ git
   float: right; 
   background-color: yellow;
 }
+
