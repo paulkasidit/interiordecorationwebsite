@@ -1,0 +1,19 @@
+.head {
+  
+}
+
+.description {
+
+}
+git
+.images { 
+  width: 300px;
+  float: left;
+  columns: center;
+}
+
+.sidebar { 
+  width: 30%; 
+  float: right; 
+  background-color: yellow;
+}
